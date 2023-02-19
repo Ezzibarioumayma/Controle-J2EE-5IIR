@@ -45,4 +45,12 @@
 ----------------------------------------------------------------------------------------------
 <h4>-- Verification avec Postman -- </h4>
 <img src="https://user-images.githubusercontent.com/116803969/219957140-57bb8ffa-f441-4abf-a40c-8712f66db233.png">
+----------------------------------------------------------------------------------------------
+<h4>-- Kafka test client -- </h4>
+<img src="https://user-images.githubusercontent.com/116803969/219957772-12837c78-e801-48e2-b6c1-e4d759326e47.png">
+----------------------------------------------------------------------------------------------
+<h4>-- Kafka Stream -- </h4>
+<img src="kafkastream](https://user-images.githubusercontent.com/116803969/219957815-c8efe1b0-53bd-472a-a873-938da101f103.png">
+
+
 
