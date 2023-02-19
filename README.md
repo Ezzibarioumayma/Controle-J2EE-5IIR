@@ -1,25 +1,7 @@
-# Controle-JEE-ALLAM-AOUATIF
-<h1><i>1-L'Objectif de l'Atelier:</i><h1>
+#Ezzibari Oumayma Projet J2EE
+<h1><i>1-L'Objectif :</i><h1>
 <h3>Créer une application basée sur une architecture micro-service qui permet de gérer les factures contenant des produits et appartenant à un client.</h3>
-<ol>
-  <li>Micro-service customer-service qui permet de gérer les client</li>
-  <li>Micro-service inventory-service qui permet de gérer les produits</li>
-  <li>Gateway Spring cloud Gateway avec une Configuration statique du système de routage</li>
-  <li>Annuaire Eureka Discrovery Service</li>
-  <li>Configuration dynamique des routes de la gateway</li>
-  <li>Service de facturation Billing-Service en utilisant Open Feign</li>
-  <li>Client Web Angular (Clients, Produits, Factures)</li>
-  <li>Déployer le serveur keycloak :</li>
-  <dl>
-  <dt>- Créer un Realm</dt>
-  <dt>- Créer un client à sécuriser</dt>
-  <dt>- Créer des utilisateurs</dt>
-  <dt>- Créer des rôles</dt>
-  <dt>- Affecter les rôles aux utilisateurs</dt>
-  <dt>- Tester les différents modes d'authentification avec Postman en montrant les contenus de Access-Token, Refresh Token</dt>
-  </dl>
-  <li>Sécuriser les micro-services et le frontend angular en déployant les adaptateurs Keycloak</li>
-</ol>
+
 <h1><i>2-La simulation :</i><h1>
 <img src="https://user-images.githubusercontent.com/80590096/209091463-0fe25b5b-b8fe-4331-a200-0b466f0af665.PNG"/>
 <img src="https://user-images.githubusercontent.com/80590096/209091588-0c40b8de-3c4d-466c-a334-74d1cd32cd69.PNG"/>  
